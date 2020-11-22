@@ -1,0 +1,2 @@
+# Grocery_Store_Billing
+The project deals with daily use Grocery Billing System, where you can add products, delete products, update stock and bill items. Billing items will constantly update(reduce) stock. User can also reset the billed items, add/reduce quantity of products, search products from Database while billing. The billing page comes with a mini music player where user can play,pause,stop,mute music and also add/remove melody to be play. The project allows separate login for both staff and admin.
